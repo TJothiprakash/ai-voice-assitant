@@ -1,0 +1,5 @@
+Payment Support Knowledge
+
+1. If payment failed yesterday, the customer should check bank balance.
+2. If money was deducted but payment failed, refund will arrive within 3–5 days.
+3. If transaction pending, wait 24 hours.
