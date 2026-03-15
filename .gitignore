@@ -54,6 +54,8 @@ Thumbs.db
 *.wav
 *.mp3
 *.ogg
+*.ul
+*.ulaw
 
 # ---------------------------
 # Uvicorn / runtime
@@ -78,3 +80,8 @@ htmlcov/
 # ---------------------------
 *.tmp
 *.temp
+
+# ---------------------------
+# Knowledge uploads (RAG documents)
+# ---------------------------
+knowledge/uploads/*

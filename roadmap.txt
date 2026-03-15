@@ -1,0 +1,6 @@
+
+remove unwanted libs
+barge ai interruption handling
+optimize for latency
+build rag like thing
+generate readme , contribution guide
